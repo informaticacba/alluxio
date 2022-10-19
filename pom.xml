@@ -152,7 +152,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <ratis.version>2.0.0</ratis.version>
     <slf4j.version>1.7.30</slf4j.version>
-    <jackson.version>2.11.1</jackson.version>
+    <jackson.version>2.13.4.1</jackson.version>
     <ozone.version>1.0.0</ozone.version>
     <hadoop-cos.version>3.1.0-5.8.5</hadoop-cos.version>
     <cos_api.version>5.6.19</cos_api.version>
